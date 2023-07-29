@@ -8,10 +8,8 @@
   <a href="https://youtu.be/jLMOtBa9NDs">Watch Demo Video</a> |
   <a href="#key-features">Key Features</a> |
   <a href="#project-overview">Project Overview</a> |
-  <a href="#installation">Installation</a> |
-  <a href="#usage">Usage</a> |
-  <a href="#license">License</a> |
-  <a href="#contributors">Contributors</a>
+  
+  
 </p>
 
 
