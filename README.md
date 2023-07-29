@@ -14,9 +14,7 @@
   <a href="#contributors">Contributors</a>
 </p>
 
-<p align="center">
-  <img src="path/to/ssms-logo.png" alt="SSMS Logo" width="400">
-</p>
+
 
 ## Objective
 
@@ -37,17 +35,3 @@ The SSMS will integrate the Oak D camera with wearable safety gear for seamless 
 Upon receiving notifications, the controller's system will generate an automatic inquiry to the employee, requiring them to submit an answer appeal in response to the inquiry. Meanwhile, if an outsider is detected, the controller room management will take immediate action.
 
 The Oak D camera will also capture images of every person passing through the entrance point, and the system will generate emails with relevant pictures for record-keeping purposes.
-
-## Installation
-
-Provide detailed installation instructions and prerequisites for setting up the Smart Safety Management System on different platforms.
-
-## Usage
-
-Explain how to use the SSMS and provide code examples or screenshots to showcase its functionality.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
